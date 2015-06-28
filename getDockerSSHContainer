@@ -1,0 +1,1 @@
+sudo docker run --name "ubuntusshcontainer" -P -d kuldeeparyadotcom/ubuntusshd:snapshot

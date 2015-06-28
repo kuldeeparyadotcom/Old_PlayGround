@@ -1,0 +1,1 @@
+sudo docker run --name "BootstrapContainer" -v /home/kd/PlayGround/Source:/var/www/html -P -d kuldeeparyadotcom/ubuntubootstrap:snapshot
